@@ -1,0 +1,105 @@
+
+1.0 PURPOSE: To provide written guidelines for the approval of vendors supplying raw material and packing material.
+2.0 SCOPE: This SOP covers the procedure for purchase, quality assurance, and quality control, production, and warehouse departments of all units.
+3.0 RESPONSIBILITY: QA department with co-ordination to Production/Warehouse department shall be responsible for providing information on vendor, procurement.
+- Head Quality Assurance or his/her designee shall be responsible for review of the documents, evaluation of vendor.
+- Head Quality Control or his/her designee shall be responsible for the analysis of pre-purchase samples and initial commercial supplies etc. where ever applicable.
+- Head, Quality Assurance or his/her designee shall be responsible for the implementation and compliance of this SOP.
+4.0 PROCEDURE
+- All incoming raw materials and packing materials should be tested as per STP and approved as per specifications.
+- The Manufacturer and vendor should be evaluated for all incoming raw material and packing material.
+- Raw materials should be classified into two categories, namely starting materials and other raw materials.
+4.1  Starting Materials : 
+- Starting material is that which is incorporated as a significant structural fragment of the API 		   / Drug Intermediate.
+-  It has significant effect on the Quality and Yield of the product.
+4.2 Other raw materials:
+- Other materials should be defined as that which is a commonly available such as chemical / solvent / catalyst / reagent etc.
+- Packing materials are classified into Primary and Secondary Packing Materials.
+4.2.1 Primary Packing Materials
+- Packing materials which come in direct contact with the API / Intermediates are considered as Primary Packing Materials.
+4.2.2 Secondary Packing Materials
+- All packing materials other than primary packing materials are to be considered as Secondary Packing Materials.
+	General Procedure
+- The vendor development and subsequent qualification, re-qualification or disqualification team shall include representatives from Warehouse, Production, QC and Quality Assurance.
+- Qualified person/ Business Partner may also accompany the team to visit their vendors as per requirements mentioned in the technical contract.
+- After identification of vendor from reliable sources, Quality Assurance Department shall issue the Packaging material Vendor Assessment Questionnaire BML/QDG/QA/069/F01 or Raw material Vendor Assessment Questionnaire BML/QDG/QA/069/F02 to the vendor.
+- While qualification of vendor of raw material , Vendors holding DMF can be directly considered as Designated (not sending Vendor Assessment Questionnaire) and the profile or information on such vendors can be assessed using internet. If Pre-purchase samples are not received, first three commercial supplies that are normally used for producing validation batches can be considered as pre-purchase samples. Vendor can be approved after evaluation of three commercial supplies.
+Raw Material Vendors: Upon receipt of filled ‘Vendor Assessment Questionnaire’ as per BML/QA/VAQ/001 for manufacturer or as per BML/QA/SAQ/001 for Supplier, from the vendor; the Quality Assurance Department shall evaluate the information furnished by the vendor. If Quality Assurance department is satisfied with the initial evaluation, then the following steps shall be followed for approval of raw material vendors.
+- Raw material vendors (only manufacturers) from which the company is procuring materials for a long time say minimum for two years can be approved retrospectively by evaluating the data of batches procured like number of batches, number of batches approved or rejected or any other quality issues with the vendor and delivery schedule.
+- While approving a vendor retrospectively, not more than 10% rejection in terms of number of consignments received shall be permitted. The rejections of three successive consignments shall render a vendor un-approved and in such case, site audit / visit (as appropriate) for re-evaluation shall be done.
+- For new vendors, BIOMEDICAL  shall procure preferably three pre-purchase samples for raw materials from three different batches and shall forward the samples to Quality Control Department for analysis. Quantity of each sample shall be sufficient to conduct at least one complete testing as per specifications and its performance evaluation.
+- Following the receipt of samples, Quality Control Department shall test the samples as per the in-house/ Pharmacopoeia specifications.
+- Only those Vendors shall be considered whose all samples pass the testing.
+- Quality Assurance, and Production department shall be involved in performance evaluation. 
+- For new API vendor, the batch shall be subjected to stability studies at accelerated conditions. A review of the data shall be undertaken after minimum of three months and further after six months intervals.
+- Following successful performance evaluation and if required, Head Quality Assurance or his designee or a designated team or a designated trained person shall visit the location to conduct site audit of the vendor facility. Vendor audit checklist as per BML/QA/SAC/001 can be used; site audit can go beyond the information contained in the checklist.
+- Following satisfactory vendor site audit, vendor shall be asked to supply three commercial consignments preferably from three different batches.
+- The first three commercial consignments of both active raw materials and inactive raw materials shall be evaluated.
+- Quality control Department shall perform sampling of these consignments as per concern SOP. For any specific sampling requirement from any customer or agency, the same shall be followed.
+- API’s shall be procured of latest manufacturing date; from the approved / designated vendors.
+- After reviewing the results of these consignments, Quality Assurance department shall prepare a Vendor Approval Report as per BML/QA/VAR/001. 
+- Thereafter, the name and site address of the vendor shall be included in the Approved/ Designated Vendors List as per BML/QA/AVL/001.
+- An approved / designated vendor list shall be provided by Quality Assurance department to Ware house, and Quality Control departments. 
+- In case of commercial supplies of the raw materials which shall be received in Warehouse as a part of vendor approval process, Warehouse and Quality Control departments shall be intimated using internal communication system , adequately defining the status of the vendor, by Quality Assurance department and at the same time Designated Vendor List shall be updated by Quality Assurance department. 
+- The Vendor Lists shall be revised quarterly or as and when required and shall be distributed to the concerned departments.
+- Prepare a Quality Agreement with the approved vendors which should be valid for 3 years and renew the same after every three years, refer BML/QA/QAG/001.
+- The final authority of approval of vendor shall be the responsibility of Head Quality  Assurance.	
+Packaging Material vendor (s) - Following receipt of filled form ‘Vendor Assessment Questionnaire’ from the vendor; the Quality Assurance Department shall evaluate the information furnished by the vendor. If Quality Assurance is satisfied with the initial evaluation, then the following steps shall be followed for approval of packaging material vendors.
+- Packaging material vendors (only manufacturers) from which the company is procuring materials for a long time say minimum for two years shall be approved retrospectively by evaluating the data of batches procured like number of batches/ lots, number of batches/lots approved or rejected or any other quality issues with the vendor and delivery schedule.
+- While approving a vendor retrospectively, not more than 15% rejection in terms of number of consignments received shall be permitted. The rejections of three successive consignments shall render a vendor unapproved and in such case, site audit / visit (as appropriate) for re-evaluation shall be done.
+- Vendor shall be approved for the similar types of the packing materials e.g. if a vendor is approved for supplying the cartons of a product , then this vendor shall stand approved vendor for the supply of all other similar type of cartons for another products.
+- In case of primary packaging material, for new vendors and for new products, BIOMEDICAL LTD shall procure preferably three samples of primary packaging materials with a quantity sufficient for at least one complete testing as per specifications and evaluation, from the vendor. The samples shall be analyzed by quality control department as per the approved specifications.
+- Quality assurance and production department shall be involved in performance evaluation. 
+- For new vendor of primary packing material, the batch shall be subjected to stability studies at accelerated conditions. A review of the data shall be undertaken after minimum of three months and further after six months intervals.
+- Only those vendors shall be considered whose all samples pass the specifications and performance evaluation, where applicable.
+- Following successful testing and performance evaluation and if required, the Quality Assurance head or his / her designee or a designated team or a designated person shall visit the location to conduct site audit of the vendor facility. Vendor Audit checklist shall as per BML/QA/SAC/001 be used; site audit can go beyond the information contained in the checklist.
+- The Quality Assurance Department shall prepare a Vendor Approval Report 
+- Thereafter, the vendor name and address shall be included in the Approved Vendors List.
+- The final authority of approval of vendor shall be the responsibility of Quality Assurance head.
+- Approved Vendor List and designated vendor List shall be prepared by Quality Assurance and shall be distributed to the concerned departments as and when required.
+- The performance of vendors for raw materials and packaging materials shall be monitored for quality of material supplied. 
+- The appraisal shall be conducted annually through review of the raw material/ QC data 
+- An API vendor audit planner As per BML/QA/VAP/001 shall be prepared for each calendar year. Each API vendor shall be audited at least once in a 3 years. 
+- If the material supplies from a vendor have been consistently meeting the specifications and there are no quality issues then a vendor re-audit may be exempted with the requirement of vendor assessment questionnaire , Only based on the following criteria of cGMP regulatory certifications earned by the manufacturing facility like USFDA, Certification of one or more than one member of European union , certification from PIC/s  etc. with necessary review of the vendor qualification documentation supporting continued compliance to cGMP norms as applicable to the manufacturer’s country of origin and Compendia requirement / Marketing authorization. 
+- Forms included as (Vendor Site Audit Report) and (Quality Agreement) are specimens with indicative information, these maybe customized for the given situations for appropriate presentation of the Information.	
+- Annexure 
+- Vendor Assessment Questionnaire (Manufacturer) - BML/QA/VAQ/001M
+- Vendor Assessment Questionnaire (Supplier)- BML/QA/VAQ/001S
+- Vendor Site Audit Checklist (Raw Material)- BML/QA/VAQ/001RM
+- Vendor Site Audit Checklist (Packaging Material)	- BML/QA/VAQ/001PM
+- Vendor Approval Report	- BML/QA/VAR/001
+- Vendor Management Flow chart	- BML/QA/VMF/001
+- Site Audit  Planner    - BML/QA/SAP/001
+- Vendor Site Audit Report     - BML/QA/SAR/001 
+- Quality Agreement    - BML/QA/QAG/001
+- Vendor List API/Excipients 	- BML/QA/APL/001
+- Vendor List Packaging Materials	- BML/QA/VPM/001
+- Disqualification form - BML/QA/DQM/001M
+5.0 Definitions /Abbreviations:
+- QA – Quality Assurance
+- COA – Certificate of Analysis
+- IPQC – In-process quality control officer
+- API – Active Pharmaceutical Ingredient
+- Vendor -
+6.0 Training Requirements
+- On relevant SOP’s
+- On good cleaning practices
+- On cGMP
+- On good documentation practice.
+7.0 Distribution and Documentation control:
+- Procurement unit
+- QA
+- Controlled copy 
+- Master copy
+
+
+Biomedical Limited, No 1 Ohimege Road, Industrial Estate, Ilorin Kwara State, PMB 1449Standard Operating Procedure for Vendor QualificationSOP No.: BML -QA-069
+
+Prepared ByNameTitle Signature/ DateOriginating Department: Quality Assurance Checked ByEffective Date: April, 2023Approved ByReview Date: March, 2025Authorized ByRev.: 05
+
+Change History/ Rationale Date: April, 2023SOP Ref: NAReason for Review: To updateDISCLAIMER: Soft Copy with the Server and Hard Copy with the Controlled Document Stamp and Signature of Quality Assurance Manager only are ‘Controlled Documents’, all other forms are ‘Uncontrolled and Invalid’. 
+
+Page  PAGE 7 of 7
+
+
+
